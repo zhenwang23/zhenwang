@@ -1,4 +1,4 @@
-# zhenwang
+# Zhen Wang
 Introduction about Me
 I am Zhen, currently working for Jina AI.
 
